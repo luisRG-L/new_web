@@ -1,0 +1,32 @@
+@import url('./variables.css');
+
+body {
+    margin: 0;
+    color: white;
+}
+
+a {
+    color: var(--link-color)
+}
+
+
+section:nth-child(odd) {
+    background-color: var(--primary-bg);
+}
+
+section:nth-child(even) {
+    background-color: var(--secondary-bg);
+}
+
+section {
+    padding: 5%;
+}
+
+main p {
+    max-width: 60%;
+}
+
+main img {
+    position: relative;
+    right: 0;
+}

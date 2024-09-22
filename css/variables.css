@@ -1,0 +1,14 @@
+:root {
+    --text-color: white;
+    --link-color: orange;
+
+    --header-bg: #222222;
+    --primary-bg: #101010;
+    --secondary-bg: #010101;
+    --footer-bg: #000000;
+    
+    --emphasis-cbg: orange;
+    --app-emphasis-cbg: blue;
+    --header-emphasis-cbg: rgb(255, 200, 98);
+    --item-cbg: #242424;
+}
